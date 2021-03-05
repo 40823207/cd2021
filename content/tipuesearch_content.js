@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'Home', 'text': '', 'tags': '', 'url': 'Home.html'}, {'title': 'About', 'text': '倉儲: https://github.com/40823207/cd2021 \n 分組倉儲: \n 二人小組:40823206、40823207 \n', 'tags': '', 'url': 'About.html'}, {'title': 'Works', 'text': '', 'tags': '', 'url': 'Works.html'}, {'title': 'W1', 'text': '建立網站 \n \n', 'tags': '', 'url': 'W1.html'}]};
